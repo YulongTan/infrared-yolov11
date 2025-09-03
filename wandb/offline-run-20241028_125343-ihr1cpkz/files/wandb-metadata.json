@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.11.3",
+    "heartbeatAt": "2024-10-28T04:53:43.812668",
+    "startedAt": "2024-10-28T04:53:43.666603",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "D:\\yolov11\\YOLOv11-pt-master\\test.py",
+    "codePath": "test.py",
+    "host": "DESKTOP-AD4LGMJ",
+    "username": "Lenovo",
+    "executable": "D:\\anaconda\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 2592.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 2592.0
+        }
+    ],
+    "disk": {
+        "total": 565.3935508728027,
+        "used": 441.55550384521484
+    },
+    "gpu": "NVIDIA GeForce GTX 1660 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1660 Ti",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.909957885742188
+    }
+}
